@@ -1,0 +1,17 @@
+.input{
+  border: 1px solid teal;
+  color: teal;
+  padding: 12px;
+  outline: none;
+}
+.btn{
+  background-color: white;
+  cursor: pointer;
+  border: 1px solid teal;
+  color: teal;
+  padding: 12px;
+
+}
+.inputBlock{
+  margin-top: 50px;
+}

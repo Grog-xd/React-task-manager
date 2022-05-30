@@ -1,0 +1,23 @@
+.post{
+    border: 1px solid teal;
+    align-items: center;
+    font-size: 24px;
+    color: teal;
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 25px;
+}
+.btn{
+    background-color: white;
+    cursor: pointer;
+    border: 1px solid teal;
+    color: teal;
+    padding: 12px;
+}
+.input{
+    border: none;
+    font-size: 24px;
+    color: teal;
+    outline: none;
+}
